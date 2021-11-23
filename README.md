@@ -12,6 +12,6 @@ Professores: [Rodolfo Viana](https://rodolfoviana.com.br/) e  [Deborah Foroni](h
 -Articular possibilidades de pautas e pesquisas a partir da análise exploratória<br>
 -Fazer uso das bibliotecas e funcionalidades do Python (Pandas, Matplotlib, Seaborn e outras) aprendidas e praticadas durante a disciplina
 
-**Contato:** 
+**Contato:**<br>
 Fábio Fleury: fabiofleury@gmail.com<br>
 Nicolás Llano: llano.nicolas@gmail.com. 
