@@ -5,7 +5,7 @@ Professores: [Rodolfo Viana](https://rodolfoviana.com.br/) e  [Deborah Foroni](h
 
 <u>Análise do perfil de eleitores com deficiência, usando as bases de dados do [Portal de Dados Abertos do TSE](https://dadosabertos.tse.jus.br/dataset/).</u>
 
-**Objetivos:**
+**Objetivos:**<br>
 -Explorar os conjuntos de dados abertos do TSE<br>
 -Selccionar um assunto/tópico para explorar em profundidade<br>
 -Realizar uma análise exploratória<br>
