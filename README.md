@@ -13,5 +13,5 @@ Professores: [Rodolfo Viana](https://rodolfoviana.com.br/) e  [Deborah Foroni](h
 -Fazer uso das bibliotecas e funcionalidades do Python (Pandas, Matplotlib, Seaborn e outras) aprendidas e praticadas durante a disciplina
 
 **Contato:** 
-Fábio Fleury: fabiofleury@gmail.com
+Fábio Fleury: fabiofleury@gmail.com<br>
 Nicolás Llano: llano.nicolas@gmail.com. 
