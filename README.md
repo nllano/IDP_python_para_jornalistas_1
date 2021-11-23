@@ -1,7 +1,7 @@
 # Trabalho final — Python para Jornalista I (IDP)
 
 Trabalho final em parceria com Fábio Fleury — [MBA Jornalismo de Dados do IDP](https://www.idp.edu.br/pos-graduacao/mba-em-jornalismo-de-dados/).<br>
-<u>Professores:</u> [Rodolfo Viana](https://rodolfoviana.com.br/) e  [Deborah Foroni](https://www.linkedin.com/in/deborah-foroni/). 
+**Professores:** [Rodolfo Viana](https://rodolfoviana.com.br/) e  [Deborah Foroni](https://www.linkedin.com/in/deborah-foroni/). 
 
 <u>Análise do perfil de eleitores com deficiência, usando as bases de dados do [Portal de Dados Abertos do TSE](https://dadosabertos.tse.jus.br/dataset/).</u>
 
