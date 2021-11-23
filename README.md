@@ -5,7 +5,7 @@ Trabalho final em parceria com Fábio Fleury — [MBA Jornalismo de Dados do IDP
 
 <u>Análise do perfil de eleitores com deficiência, usando as bases de dados do [Portal de Dados Abertos do TSE](https://dadosabertos.tse.jus.br/dataset/).</u>
 
-**Link para baixar bases de dados:**
+**Link para baixar bases de dados:**<br>
 -[Perfil de eleitores com deficiência 2014](https://dadosabertos.tse.jus.br/dataset/eleitorado-2014)<br>
 -[Perfil de eleitores com deficiência 2018](https://dadosabertos.tse.jus.br/dataset/eleitorado-2018)<br>
 
