@@ -1,4 +1,4 @@
-# Trabalho final — Python para Jornalista I (IDP)
+# Trabalho final — Python para Jornalismo de Dados I (IDP)
 
 Trabalho final em parceria com Fábio Fleury — [MBA Jornalismo de Dados do IDP](https://www.idp.edu.br/pos-graduacao/mba-em-jornalismo-de-dados/).<br>
 **Professores:** [Rodolfo Viana](https://rodolfoviana.com.br/) e  [Deborah Foroni](https://www.linkedin.com/in/deborah-foroni/). 
